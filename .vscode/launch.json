@@ -6,10 +6,17 @@
     "configurations": [
         {
             "type": "java",
-            "name": "HelloWorld",
+            "name": "InterfaceThreading",
             "request": "launch",
-            "mainClass": "HelloWorld",
-            "projectName": "JAVA_PROJECTS_a825e41e"
+            "mainClass": "InterfaceThreading",
+            "projectName": "JAVA_MULTITHREADING_679ec523"
+        },
+        {
+            "type": "java",
+            "name": "ClassThreading",
+            "request": "launch",
+            "mainClass": "ClassThreading",
+            "projectName": "JAVA_MULTITHREADING_679ec523"
         },
         {
             "type": "java",
